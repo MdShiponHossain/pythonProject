@@ -1,0 +1,10 @@
+"""
+Pattern printing
+*
+* * *
+* * * * *
+"""
+
+num = 3
+for i in range (num +1) :
+    print((2*i-1) *" *")
